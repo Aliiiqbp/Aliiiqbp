@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ali Ghorbanpour
 - 👀 I’m interested in AI/ML/NLP/VISION
-- 📫 How to reach me: aliiiqbp@gmail.com / TelegramID: Ali_qbp
+- 📫 How to reach me: ali.ghorbanpour.ce@gmail.com / TelegramID: Ali_qbp
 
 <!---
 Aliiiqbp/Aliiiqbp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

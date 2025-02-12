@@ -2,7 +2,6 @@
 - 👀 I’m interested in AI/ML
 - 📫 How to reach me:
 - ali.ghorbanpour.ce@gmail.com
-- TelegramID: Ali_qbp
 - LinkedIn: www.linkedin.com/in/ali-ghorbanpour-aa7b4a167/
 
 <!---
